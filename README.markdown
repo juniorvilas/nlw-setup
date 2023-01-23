@@ -158,7 +158,6 @@ $ npm run dev
 
 - [Wallpapers-NLW-SETUP](https://drive.google.com/drive/folders/1F5ghUWdlaC_1IKFxkNUgGcTGqpqdpR29)
 - [Notion-Trilha-Ignite](https://efficient-sloth-d85.notion.site/Trilha-Ignite-562e3516c7574fb7be75ff01fbb41f54)
-- []
 ## :memo: Licença ##
 
 Este projeto está sob licença MIT. Para mais informações acesse [LICENSE](LICENSE.md).
